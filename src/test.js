@@ -1,7 +1,7 @@
 export const data = [
   {
     Ingredient: "Carrot",
-    "Short text": "A great starter for your baby",
+    short_text: "A great starter for your baby",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -22,7 +22,7 @@ export const data = [
   },
   {
     Ingredient: "Butternut Squash",
-    "Short text": "The best first food",
+    short_text: "The best first food",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -43,7 +43,7 @@ export const data = [
   },
   {
     Ingredient: "Sweet Potatoes",
-    "Short text": "Fully cooked & soft baby food",
+    short_text: "Fully cooked & soft baby food",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -64,7 +64,7 @@ export const data = [
   },
   {
     Ingredient: "Yogurt",
-    "Short text": "Make baby tummies happy",
+    short_text: "Make baby tummies happy",
     "Age group": "6 Month",
     Allergent: "Diary",
     Introduction:
@@ -85,7 +85,7 @@ export const data = [
   },
   {
     Ingredient: "Chicken",
-    "Short text": "A good source of protein",
+    short_text: "A good source of protein",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -106,7 +106,7 @@ export const data = [
   },
   {
     Ingredient: "Salmon",
-    "Short text": "A safe & healthy solid food",
+    short_text: "A safe & healthy solid food",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -127,7 +127,7 @@ export const data = [
   },
   {
     Ingredient: "Melon",
-    "Short text": "Rich in vitamin A & C",
+    short_text: "Rich in vitamin A & C",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -148,7 +148,7 @@ export const data = [
   },
   {
     Ingredient: "Banana",
-    "Short text": "Loaded with essential nutrients",
+    short_text: "Loaded with essential nutrients",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -169,7 +169,7 @@ export const data = [
   },
   {
     Ingredient: "Apple",
-    "Short text": "A sweet treat your baby",
+    short_text: "A sweet treat your baby",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -190,7 +190,7 @@ export const data = [
   },
   {
     Ingredient: "Strawberries",
-    "Short text": "Introduce mashed strawberries",
+    short_text: "Introduce mashed strawberries",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -211,7 +211,7 @@ export const data = [
   },
   {
     Ingredient: "Broccoli",
-    "Short text": "A nutritious green vegetable",
+    short_text: "A nutritious green vegetable",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -232,7 +232,7 @@ export const data = [
   },
   {
     Ingredient: "Egg",
-    "Short text": "A safe early food for babies",
+    short_text: "A safe early food for babies",
     "Age group": "6 Month",
     Allergent: "Egg",
     Introduction:
@@ -253,7 +253,7 @@ export const data = [
   },
   {
     Ingredient: "Beans",
-    "Short text": "Good source of micronutrients",
+    short_text: "Good source of micronutrients",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -274,7 +274,7 @@ export const data = [
   },
   {
     Ingredient: "Cauliflower",
-    "Short text": "For strong & healthy bones",
+    short_text: "For strong & healthy bones",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -295,7 +295,7 @@ export const data = [
   },
   {
     Ingredient: "Avocado",
-    "Short text": "Serve fresh from their peels",
+    short_text: "Serve fresh from their peels",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -316,7 +316,7 @@ export const data = [
   },
   {
     Ingredient: "Mango",
-    "Short text": "Strengthen the immune system",
+    short_text: "Strengthen the immune system",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -337,7 +337,7 @@ export const data = [
   },
   {
     Ingredient: "Potato",
-    "Short text": "Energy powerhouse for babies",
+    short_text: "Energy powerhouse for babies",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -358,7 +358,7 @@ export const data = [
   },
   {
     Ingredient: "Cereal",
-    "Short text": "Introduce your baby to new tastes",
+    short_text: "Introduce your baby to new tastes",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
@@ -379,7 +379,7 @@ export const data = [
   },
   {
     Ingredient: "Blueberries",
-    "Short text": "Best baby food to to self-feed",
+    short_text: "Best baby food to to self-feed",
     "Age group": "8 Month+",
     Allergent: "No",
     Introduction:
@@ -400,7 +400,7 @@ export const data = [
   },
   {
     Ingredient: "Spinach",
-    "Short text": "An ideal veggie for babies",
+    short_text: "An ideal veggie for babies",
     "Age group": "6 Month",
     Allergent: "No",
     Introduction:
